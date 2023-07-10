@@ -1,13 +1,4 @@
-# ConsoleApp
-
-Консольный вывод:<br/>
-![image](https://github.com/VladHardAndSoftWare/ConsoleApp/assets/42782084/ec4527af-efe9-4c27-b84e-953648111079)
-
-
-
-Unit-Тесты:<br/>
-![image](https://github.com/VladHardAndSoftWare/ConsoleApp/assets/42782084/ea4bd9d5-ea0e-44cc-a4d1-9b8b813a4205)
-
+# Тестовое задание связнное с ООП
 ---
 Разработать консольное .NET приложение для склада, удовлетворяющее следующим требованиям:
 
@@ -36,3 +27,10 @@ Unit-Тесты:<br/>
         - 3 паллеты, которые содержат коробки с наибольшим сроком годности, отсортированные по возрастанию объема.
 
 - (Опционально) Покрыть функционал unit-тестами.
+---
+Консольный вывод:<br/>
+![image](https://github.com/VladHardAndSoftWare/ConsoleApp/assets/42782084/ec4527af-efe9-4c27-b84e-953648111079)
+
+Unit-Тесты:<br/>
+![image](https://github.com/VladHardAndSoftWare/ConsoleApp/assets/42782084/ea4bd9d5-ea0e-44cc-a4d1-9b8b813a4205)
+
